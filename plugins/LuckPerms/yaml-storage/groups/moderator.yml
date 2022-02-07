@@ -1,5 +1,0 @@
-name: moderator
-permissions:
-- chat.mute
-- minecraft.command.ban
-- minecraft.command.kick

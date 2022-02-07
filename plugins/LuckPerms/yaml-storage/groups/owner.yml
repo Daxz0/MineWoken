@@ -1,6 +1,0 @@
-name: owner
-permissions:
-- cdnc.command
-- rank.command
-parents:
-- admin
