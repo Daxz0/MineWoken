@@ -164,6 +164,8 @@ world-settings:
     nerf-spawner-mobs: false
     mob-spawn-range: 8
     end-portal-sound-radius: 0
+  worldeditregentempworld:
+    verbose: false
 config-version: 12
 stats:
   disable-saving: false
