@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1644391011970
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1644395370491
+  login: 1644391790117
+money: '0'
+last-account-name: Daxz_
+logoutlocation:
+  world: 93223cf0-8a57-4648-a47c-2eab27edb8d7
+  world-name: world
+  x: -1015.711999909533
+  y: 6.560866273644988
+  z: -255.87002896940888
+  yaw: 123.73724365234375
+  pitch: 16.17212677001953
+lastlocation:
+  world: 5481a645-cca9-4b3a-9df0-6675c4d46e18
+  world-name: world
+  x: 156.5
+  y: 70.0999984741211
+  z: -175.5
+  yaw: -40.51974868774414
+  pitch: 25.911792755126953
