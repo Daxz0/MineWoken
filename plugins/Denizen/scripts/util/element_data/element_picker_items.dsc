@@ -1,31 +1,3 @@
-####Element Picker UI Screen
-####Basic Abilities for each
-
-
-
-selectorui:
-    type: inventory
-    inventory: chest
-    title: <&c>Element Selector
-    size: 27
-    gui: true
-    slots:
-        - [pane] [pane] [pane] [pane] [pane] [pane] [pane] [pane] [pane]
-        - [pane] [pane] [fditem] [gbitem] [pane] [tcitem] [fcitem] [pane] [pane]
-        - [pane] [pane] [pane] [pane] [pane] [pane] [pane] [pane] [pane]
-
-
-
-
-pane:
-    type: item
-    material: black_stained_glass_pane
-    display name: <&b>
-
-
-
-
-
 fcitem:
     type: item
     material: player_head
@@ -63,3 +35,4 @@ tcitem:
     display name: <&e>Thundercall
     mechanisms:
         skull_skin: 538900a6-9df8-4e72-97b7-aa97afd37658|eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzNkMTQ1NjFiYmQwNjNmNzA0MjRhOGFmY2MzN2JmZTljNzQ1NjJlYTM2ZjdiZmEzZjIzMjA2ODMwYzY0ZmFmMSJ9fX0=
+
